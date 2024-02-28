@@ -4,6 +4,9 @@
       "mode": "auto"
     }
   ],
-  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll":true
+  },
+  "editor.formatOnSave": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
